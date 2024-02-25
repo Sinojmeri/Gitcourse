@@ -1,1 +1,2 @@
 Alex has a cat.
+This is the new file.
