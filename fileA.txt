@@ -1,1 +1,2 @@
 Alex has a cat and a dog.
+Some new changes on master branch.
